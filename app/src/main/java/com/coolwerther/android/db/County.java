@@ -38,4 +38,7 @@ public class County {
         this.cityId = cityId;
     }
 
+
+    public void save() {
+    }
 }
